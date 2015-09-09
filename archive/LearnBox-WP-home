@@ -1,0 +1,196 @@
+[content_band class="center-text" inner_container="true" padding_top="65px" padding_bottom="65px" no_margin="true" border="none" bg_image="http://learnbox.xyz/wp-content/uploads/2015/08/learnbox-desk-picture.jpg"]
+[column type="whole" last="true"]
+[custom_headline class="h-resp-main man" level="h1" looks_like="h3"]Private tutoring, reinvented.[/custom_headline]
+<p class="p-resp-main mbn">The premier early education tutor matching platform.</p>
+[responsive_text selector="selector" compression="1.0" min_size="1em" max_size="2em"]
+[/column]
+[/content_band]
+[content_band class="center-text" inner_container="true" padding_top="50px" padding_bottom="20px" no_margin="true" border="none" bg_color="#fff"]
+[gap size="30px"]
+[column type="one-third"]
+[custom_headline class="mtm" level="h3" looks_like="h4"]Earn HK$400+ an hour.[/custom_headline]
+<p class="mbn">Choose your hourly rate.</p>
+[/column]
+[visibility type="visible-phone"]
+[gap size="40px"]
+[/visibility]
+[column type="one-third"]
+[custom_headline class="mtm" level="h3" looks_like="h4"]Zero-cost advertising.[/custom_headline]
+<p class="mbn">Market to a vast selection of parents seeking premium private education.</p>
+[/column]
+[visibility type="visible-phone"]
+[gap size="40px"]
+[/visibility]
+[column type="one-third" last="true"]
+[custom_headline class="mtm" level="h3" looks_like="h4"]Flexible working hours.[/custom_headline]
+<p class="mbn">Teach what you excel at, when you want to.</p>
+[/column]
+[gap size="40px"]
+[/content_band]
+
+[content_band class="center-text" inner_container="true" padding_top="10px" padding_bottom="40px" no_margin="true" border="none" bg_color="#fff"]
+[gap size="30px"]
+[column type="one-third"]
+[custom_headline class="mtm" level="h3" looks_like="h4"]Get paid on time.[/custom_headline]
+<p class="mbn">Payments, scheduling, and feedback, beautifully designed.</p>
+[/column]
+[visibility type="visible-phone"]
+[gap size="40px"]
+[/visibility]
+[column type="one-third"]
+[custom_headline class="mtm" level="h3" looks_like="h4"]Communicate more clearly.[/custom_headline]
+<p class="mbn">Develop better relationships with the student's family.</p>
+[/column]
+[visibility type="visible-phone"]
+[gap size="40px"]
+[/visibility]
+[column type="one-third" last="true"]
+[custom_headline class="mtm" level="h3" looks_like="h4"]Quality first.[/custom_headline]
+<p class="mbn">Join tutors from HKU, CUHK, HKUST, Oxbridge, Ivy League universities, and the Hong Kong Basketball Team.</p>
+[/column]
+[gap size="40px"]
+[/content_band]
+
+[content_band class="center-text" inner_container="true" padding_top="65px" padding_bottom="65px" no_margin="true" border="none" bg_color="#647da7"]
+[column type="one-half"]
+[custom_headline class="h-resp mtn" style="color: #fff;" level="h2" looks_like="h3"]Want to be featured?[/custom_headline]
+<p class="p-resp" style="color: #fff;">Sign up for early access and for a chance to be on our First 100 featured list.</p>
+[button shape="square" size="big" float="none" href="http://learnbox.com/?page_id=6" info="none" info_place="top" info_trigger="hover"]Apply Now[/button]
+[/column]
+[column type="one-half"]
+[gap size="5em"]
+[image type="none" float="none" src="http://learnbox.com/wp-content/uploads/2015/08/Tutor-Profile-Mockup-new.png" info="none" info_place="top" info_trigger="hover" style="width:400px;"]
+[/column]
+[/content_band]
+
+
+
+[content_band class="center-text" inner_container="true" padding_top="50px" padding_bottom="40px" no_margin="true" border="none" bg_color="#fff"]
+[custom_headline type="left" level="h2" looks_like="h3" style="text-align: left;"]What is LearnBox?[/custom_headline]
+[gap size="30px"]
+[column type="1"]
+<p class="mbn" style="text-align: left;">
+LearnBox is an exciting online platform created to help parents find quality tutors for their young children from nursery to early primary grades.</p>
+[gap size="10px"]
+<p class="mbn" style="text-align: left;">
+Parents and tutors can schedule (or reschedule) lessons, process payments, and give structured feedback in one place.</p>
+[/column]
+[/content_band]
+
+[content_band class="center-text" inner_container="true" padding_top="40px" padding_bottom="50px" no_margin="true" border="none" bg_color="#86cccc"]
+[custom_headline type="left" level="h2" looks_like="h3" style="color: #fff; text-align: left;"]Why we were Founded[/custom_headline]
+[gap size="30px"]
+[column type="1"]
+<p class="mbn" style="color: #fff; text-align: left;">
+No one will doubt the importance of early childhood learning, and responsible pedagogy. enables each child to demonstrate learning in the fullest sense.
+
+<p class="mbn" style="color: #fff; text-align: left;">However, the problem many of us are facing is that we are busy working parents or that there is a lack of language or specific skills or know-how or we simply need a break. Furthermore, with a growing population, the competition for quality education at kindergartens and primary schools is high.</p>
+
+<p class="mbn" style="color: #fff; text-align: left;">LearnBox was founded on the belief that one-to-one tutoring can benefit young children, and that it can provide an exciting and stimulating experience. We hope to expose them to opportunities that would allow them to flourish in many aspects of their development.</p>
+[gap size="10px"]
+<p class="mbn" style="color: #fff; text-align: left;">In fact, the moment your child is born, he/she is already learning and parents / carers are already tutoring. No two children are the same - individual tutoring allows teaching to be tailor-made to suit the needs of your child.</p>
+[gap size="30px"]
+[/column]
+[custom_headline type="left" level="h2" looks_like="h3" style="color: #fff; text-align: left;"]For Tutors[/custom_headline]
+[column type="1"]
+<p class="mbn" style="color: #fff; text-align: left;">Marketing oneself, scheduling and rescheduling (and getting last-minute cancellations), and keeping track of student details can be draining. LearnBox seeks to simplify this process and let your performance do the marketing for you.</p>
+[button shape="square" size="big" float="none" href="http://learnbox.com/?page_id=6" info="none" info_place="top" info_trigger="hover"]Apply Now[/button]
+[/column]
+[/content_band]
+
+
+
+[content_band class="center-text" inner_container="true" padding_top="50px" padding_bottom="40px" no_margin="true" border="none" bg_color="#fff"]
+
+[custom_headline type="center" level="h2" looks_like="h3"]Our Team[/custom_headline]
+[gap size="30px"]
+[container]
+[column type="one-third" style="vertical-align: middle;"]
+[visibility type="hidden-phone"]
+[gap size="3.5em"]
+[/visibility]
+[image type="circle" float="none" src="http://learnbox.com/wp-content/uploads/2015/08/Angus-Chan.jpg" info="none" info_place="top" info_trigger="hover" style="vertical-align: middle; width:256px;"]
+[/column]
+[visibility type="visible-phone"]
+[gap size="40px"]
+[/visibility]
+[column type="two-thirds" last="true"]
+[custom_headline type="center" level="h3" looks_like="h4" style="text-align: left;"]Angus Chan[/custom_headline]
+<p class="mbn" style="text-align:left;">Angus is a parent that values his children's education and believes that a good foundation is the key to a bright future. Through him investigating how best to provide his children with quality education in a nurturing environment, his child successfully received offers from several top primary schools. Angus is the founder of an e-commerce company which has had revenue of over USD 300M. He also invests in and advises student entrepreneurial initiatives.</p>
+[/column]
+[gap size="40px"]
+[/container]
+[gap size="40px"]
+[container]
+[column type="one-third"]
+[visibility type="hidden-phone"]
+[gap size="3.5em"]
+[/visibility]
+[image type="circle" float="none" src="http://learnbox.com/wp-content/uploads/2015/08/Jessica-Yung.jpg" info="none" info_place="top" info_trigger="hover" style="vertical-align: middle; width:256px;"]
+[/column]
+[visibility type="visible-phone"]
+[gap size="40px"]
+[/visibility]
+[column type="two-thirds" last="true"] 
+[custom_headline type="center" level="h3" looks_like="h4" style="text-align: left;"]Jessica Yung[/custom_headline]
+<p class="mbn" style="text-align: left;">Jessica (University of Cambridge) was educated at Diocesan Girls’s School (DGS) and DGJS before continuing Sixth Form at Westminster School, London. At school, she was recipient of English and Mathematics prizes, served as Form Prefect and School Monitor, and was a strong member of the Debating Team, Chamber Choir, and percussion ensemble. She was commended with a Gold Medal in the British Physics Olympiad, and won the UK Senior Team Maths Challenge as well as national debating competitions in Hong Kong and the UK.</p>
+[gap size="10px"]
+<p class="mbn" style="text-align: left;">Jessica has experience teaching maths, coding, and debating. She first became passionate about early education when she taught coding at an international school in Hong Kong. She noticed how young children loved to explore and search for explanations, and realised how important having good teachers was in helping them grow. Jessica sees learning in early childhood as the building of a strong foundation for later life. She takes pride in taking part in the grooming of each child's individual talents, wherever they may lie.</p>
+[/column]
+[gap size="40px"]
+[/container]
+[gap size="40px"]
+[container]
+[column type="one-third"]
+[visibility type="hidden-phone"]
+[gap size="3.5em"]
+[/visibility]
+[image type="circle" float="none" src="http://learnbox.com/wp-content/uploads/2015/08/Lewis-Lai.jpg" info="none" info_place="top" info_trigger="hover" style="vertical-align: middle; width:256px;"]
+[/column]
+[visibility type="visible-phone"]
+[gap size="40px"]
+[/visibility]
+[column type="two-thirds" last="true"]
+[custom_headline type="center" level="h3" looks_like="h4" style="text-align: left;"]Lewis Lai[/custom_headline]
+<p class="mbn" style="text-align:left;">Lewis is a graduate of the Hong Kong University of Science and Technology and St Paul's College (oldest continuously-operated Anglican day school in Hong Kong since 1851). Prior to co-founding LearnBox, he worked at major global financial institutions including Royal Bank of Canada and Societe Generale Group. Prior living experience in Switzerland has caused him to believe that early education is a key instrument in unleashing children's potential and a critical means to a brighter future.​</p>
+[/column]
+[gap size="40px"]
+[/container]
+[/content_band]
+
+[content_band class="center-text" inner_container="true" padding_top="65px" padding_bottom="65px" no_margin="true" border="none" bg_color="#e36a5c"]
+[column type="one-half"]
+[custom_headline class="h-resp mtn" style="color: #fff;" level="h2" looks_like="h3"]Be the first to know when we launch.[/custom_headline]
+<p class="p-resp" style="color: #fff;">Get early access to quality tutors and students.</p>
+[/column]
+[column type="one-half" last="true"]
+[visibility type="hidden-phone"]
+[gap size="6em"]
+[/visibility]
+[gravityform id="2" title="false" description="false"]
+[/column]
+[/content_band]
+
+[content_band class="center-text" inner_container="true" padding_top="65px" padding_bottom="0" no_margin="true" border="none" bg_color="#fff"]
+[column type="one-half" fade="true" fade_animation="in" id="contact"]
+[custom_headline class="h-resp mtn" level="h2" looks_like="h3"]Contact Us.[/custom_headline]
+<p class="p-resp">Want to find out more? Feel free to email us, phone us, or visit us.</p>
+[icon_list class="ul-resp"]
+[icon_list_item type="envelope"]hello@learnbox.com[/icon_list_item]
+[icon_list_item type="phone"]555.555.5555[/icon_list_item]
+[icon_list_item type="map-marker"]12C, 10 Knutsford Terrace, Tsim Sha Tsui, Hong Kong[/icon_list_item]
+[/icon_list]
+[gap size="30px"]
+[/column]
+[visibility type="visible-phone"]
+[gap size="65px"]
+[/visibility]
+[column type="one-half" last="true" fade="true" fade_animation="in"]
+[/column]
+[/content_band]
+
+[responsive_text selector=".h-resp-main" compression="1.0" min_size="36px" max_size="86px"]
+[responsive_text selector=".p-resp-main" compression="1.5" min_size="21px" max_size="32px"]
+[responsive_text selector=".h-resp" compression="0.65" min_size="36px" max_size="72px"]
+[responsive_text selector=".p-resp" compression="2.0" min_size="16px" max_size="21px"]
+[responsive_text selector=".ul-resp" compression="2.0" min_size="16px" max_size="21px"]

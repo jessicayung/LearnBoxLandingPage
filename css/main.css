@@ -318,10 +318,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-slider .slider-content h1 {
-	font-size:92px;
+	font-size:60px;
 	text-transform:initial;
 	margin-bottom:25px;
-	line-height:92px;
+	line-height:60px;
+	/**init 92**/
 }
 
 .main-slider .slider-content h1 span{
@@ -565,6 +566,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #features-slider {
 	margin-top:85px;
+
 }
 
 #features-slider .item img {
@@ -618,6 +620,7 @@ h1, h2, h3, h4, h5, h6 {
 .owl-next:hover {
 	color:#000;
 } 
+
 
 /*================Description==============*/
 
@@ -1508,3 +1511,11 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #191e21;
 }
 
+
+/*=====Added===*/
+
+.img-center {
+	width:100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
